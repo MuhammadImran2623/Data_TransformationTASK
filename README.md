@@ -6,7 +6,7 @@ Data Transformation (Parkinson's Dataset)
 
 -Remove irrelevant attributes like patient IDs or timestamps from the Parkinson's dataset.
 
-- Handled Outliers 
+- Handled Outliers  using Z-score Method
 
 -Test the impact of feature engineering on model performance and iterate as needed.
 
